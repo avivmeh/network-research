@@ -5,11 +5,8 @@ Author: Aviv Feldvari
 Project Description:
 The NR Project is a comprehensive script designed to:
 - Install the necessary packages to enable its functionality on any computer.
-
 - Establish an anonymous connection to a remote address.
-
 - Perform a detailed scan of a user-inputted target address to gather information and identify open ports.
-
 - Minimize the footprint left on the remote address after execution.
 
 This project provides tools for effective scanning while ensuring anonymity and securing local and remote data.
