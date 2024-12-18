@@ -1,4 +1,4 @@
-NR Project
+Network Research Project
 
 Author: Aviv Feldvari
 
