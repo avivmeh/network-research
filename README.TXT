@@ -2,7 +2,6 @@ Network Research Project
 
 Author: Aviv Feldvari
 
-Project Description:
 The NR Project is a comprehensive script designed to:
 - Install the necessary packages to enable its functionality on any computer.
 - Establish an anonymous connection to a remote address.
@@ -12,14 +11,13 @@ The NR Project is a comprehensive script designed to:
 This project provides tools for effective scanning while ensuring anonymity and securing local and remote data.
 
 Functionality:
-Project's Mission:
-The mission of this project is to:
 Install required dependencies automatically.
 Connect to remote addresses anonymously.
 Scan target addresses and retrieve detailed information.
 Save the data securely with minimal traces left on the remote machine.
 
 Script Sections:
+
 Installations:
 The script checks for and installs essential packages required for the project. These include:
 curl
